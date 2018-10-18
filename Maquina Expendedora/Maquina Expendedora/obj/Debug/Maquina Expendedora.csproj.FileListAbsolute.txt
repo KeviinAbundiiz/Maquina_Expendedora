@@ -1,0 +1,27 @@
+c:\users\amelia ortiz\documents\visual studio 2015\Projects\Maquina Expendedora\Maquina Expendedora\bin\Debug\Maquina Expendedora.exe.config
+c:\users\amelia ortiz\documents\visual studio 2015\Projects\Maquina Expendedora\Maquina Expendedora\bin\Debug\Maquina Expendedora.exe
+c:\users\amelia ortiz\documents\visual studio 2015\Projects\Maquina Expendedora\Maquina Expendedora\bin\Debug\Maquina Expendedora.pdb
+c:\users\amelia ortiz\documents\visual studio 2015\Projects\Maquina Expendedora\Maquina Expendedora\obj\Debug\Maquina Expendedora.csprojResolveAssemblyReference.cache
+c:\users\amelia ortiz\documents\visual studio 2015\Projects\Maquina Expendedora\Maquina Expendedora\obj\Debug\Maquina_Expendedora.Form1.resources
+c:\users\amelia ortiz\documents\visual studio 2015\Projects\Maquina Expendedora\Maquina Expendedora\obj\Debug\Maquina_Expendedora.Properties.Resources.resources
+c:\users\amelia ortiz\documents\visual studio 2015\Projects\Maquina Expendedora\Maquina Expendedora\obj\Debug\Maquina Expendedora.csproj.GenerateResource.Cache
+c:\users\amelia ortiz\documents\visual studio 2015\Projects\Maquina Expendedora\Maquina Expendedora\obj\Debug\Maquina Expendedora.exe
+c:\users\amelia ortiz\documents\visual studio 2015\Projects\Maquina Expendedora\Maquina Expendedora\obj\Debug\Maquina Expendedora.pdb
+C:\Users\Abund\Downloads\Maquina Expendedora\Maquina Expendedora\bin\Debug\Maquina Expendedora.exe.config
+C:\Users\Abund\Downloads\Maquina Expendedora\Maquina Expendedora\obj\Debug\Maquina Expendedora.exe
+C:\Users\Abund\Downloads\Maquina Expendedora\Maquina Expendedora\obj\Debug\Maquina Expendedora.pdb
+C:\Users\Abund\Downloads\Maquina Expendedora\Maquina Expendedora\bin\Debug\Maquina Expendedora.exe
+C:\Users\Abund\Downloads\Maquina Expendedora\Maquina Expendedora\bin\Debug\Maquina Expendedora.pdb
+C:\Users\Abund\Downloads\Maquina Expendedora\Maquina Expendedora\obj\Debug\Maquina Expendedora.csprojResolveAssemblyReference.cache
+C:\Users\Abund\Downloads\Maquina Expendedora\Maquina Expendedora\obj\Debug\Maquina_Expendedora.Form1.resources
+C:\Users\Abund\Downloads\Maquina Expendedora\Maquina Expendedora\obj\Debug\Maquina_Expendedora.Properties.Resources.resources
+C:\Users\Abund\Downloads\Maquina Expendedora\Maquina Expendedora\obj\Debug\Maquina Expendedora.csproj.GenerateResource.Cache
+C:\Users\Abund\OneDrive\Escritorio\Programas en C#\Maquina Expendedora\Maquina Expendedora\bin\Debug\Maquina Expendedora.exe.config
+C:\Users\Abund\OneDrive\Escritorio\Programas en C#\Maquina Expendedora\Maquina Expendedora\obj\Debug\Maquina Expendedora.exe
+C:\Users\Abund\OneDrive\Escritorio\Programas en C#\Maquina Expendedora\Maquina Expendedora\obj\Debug\Maquina Expendedora.pdb
+C:\Users\Abund\OneDrive\Escritorio\Programas en C#\Maquina Expendedora\Maquina Expendedora\obj\Debug\Maquina Expendedora.csprojResolveAssemblyReference.cache
+C:\Users\Abund\OneDrive\Escritorio\Programas en C#\Maquina Expendedora\Maquina Expendedora\obj\Debug\Maquina_Expendedora.Form1.resources
+C:\Users\Abund\OneDrive\Escritorio\Programas en C#\Maquina Expendedora\Maquina Expendedora\obj\Debug\Maquina_Expendedora.Properties.Resources.resources
+C:\Users\Abund\OneDrive\Escritorio\Programas en C#\Maquina Expendedora\Maquina Expendedora\obj\Debug\Maquina Expendedora.csproj.GenerateResource.Cache
+C:\Users\Abund\OneDrive\Escritorio\Programas en C#\Maquina Expendedora\Maquina Expendedora\bin\Debug\Maquina Expendedora.exe
+C:\Users\Abund\OneDrive\Escritorio\Programas en C#\Maquina Expendedora\Maquina Expendedora\bin\Debug\Maquina Expendedora.pdb
